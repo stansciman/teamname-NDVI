@@ -1,0 +1,1 @@
+This is the NDVI program prepared for the 2022-2023 Astro Pi: Mission Space Lab contest by Team "Teamname" from Dr. Knox Middle School, Kelowna, BC, Canada.
